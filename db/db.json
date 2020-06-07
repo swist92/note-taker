@@ -1,21 +1,7 @@
 [
   {
     "title": "hi",
-    "text": "this is from Sarah"
-  },
-  {
-    "title": "kiki",
-    "text": "test",
-    "id": "1b04a373-cba6-491a-afa2-330c6407242b"
-  },
-  {
-    "title": "Hello",
-    "text": "This is a test note ",
-    "id": "a01a9a30-7f05-44c8-a893-4ba3a61613f6"
-  },
-  {
-    "title": "sarah",
-    "text": "bb",
-    "id": "135bfbfc-5379-43a1-bcda-bf9eaf81caee"
+    "text": "hello",
+    "id": "afd38f65-2aa3-4305-a597-72b46f321a0c"
   }
 ]
